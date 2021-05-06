@@ -1,0 +1,52 @@
+body {
+   padding: 0;
+   margin: 0;
+   font-family: "Roboto", sans-serif;
+   font-size: 20px;
+   background-color: teal;
+}
+
+.main {
+   padding: 20px;
+   width: 70%;
+   margin: 20px auto;
+   background-color: whitesmoke;
+}
+
+.top-nav {
+   padding: 20px;
+   margin: auto;
+   font-size: 32px;
+   background-color: lightgray;
+   width: 50%;
+   text-align: center;
+   /* line-height: 35px; */
+}
+
+table,
+td {
+    border: 1px solid #333;
+    text-align: center;
+}
+
+td {
+   width: 50px;
+}
+
+/* thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+} */
+
+.shadow {
+   background-color: rgba(0, 0, 0, 0.1);
+}
+
+section {
+   display: inline-block;
+}
+
+.player2 {
+   float: right;
+}
